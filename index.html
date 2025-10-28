@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Whispers of Syntax</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Text To Speech</h1>
+    <textarea id="poemInput" placeholder="Type anything you want to hear...."></textarea>
+    <div class="controls">
+      <label>Voice Pitch: <input type="range" id="pitch" min="0" max="2" step="0.1" value="1" /></label>
+      <label>Rate: <input type="range" id="rate" min="0.5" max="2" step="0.1" value="1" /></label>
+    </div>
+    <button onclick="speakPoem()">Speak</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
