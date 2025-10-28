@@ -1,9 +1,9 @@
-# Whispers of Syntax 🎤
+# Text to Speech 🎤
 
-A poetic text-to-speech web app that transforms verses into voice. Built with love, glassmorphism, and the spirit of syntax.
+A text-to-speech web app that transforms text into voice.
 
 ## 🌟 Features
-- Converts poetic text to expressive speech
+- Converts  text to expressive speech
 - Adjustable pitch and rate
 - Minimalist UI with glassmorphic design
 - Ready for cloud deployment
@@ -11,7 +11,7 @@ A poetic text-to-speech web app that transforms verses into voice. Built with lo
 ## 🚀 Setup
 1. Clone the repo
 2. Open `index.html` in your browser
-3. Type your poem and click "Speak"
+3. Type anything you want and click "Speak"
 
 ## 🧠 Future Plans
 - Integrate Google Cloud TTS
@@ -23,4 +23,3 @@ Name -   1. Ansh Pandey(202410101140014)
          2. Priyanshu Kumar(2024010101140022)
   
   
-
