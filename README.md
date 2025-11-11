@@ -21,5 +21,6 @@ A text-to-speech web app that transforms text into voice.
 ## Group Info-
 Name -   1. Ansh Pandey(202410101140014)
          2. Priyanshu Kumar(2024010101140022)
+         3. Krish Sharma( 202410101140025)
   
   
