@@ -1,4 +1,4 @@
-function speakPoem() {
+function speak() {
   const text = document.getElementById("poemInput").value;
   const pitch = document.getElementById("pitch").value;
   const rate = document.getElementById("rate").value;
